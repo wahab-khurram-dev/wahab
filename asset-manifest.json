@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/wahab/static/css/main.0afe40cf.css",
+    "main.js": "/wahab/static/js/main.0c275596.js",
+    "static/js/787.509827db.chunk.js": "/wahab/static/js/787.509827db.chunk.js",
+    "static/media/angilya.png": "/wahab/static/media/angilya.d498d0ee82fde4da7aec.png",
+    "static/media/agriculture.png": "/wahab/static/media/agriculture.35159bc8917758c54970.png",
+    "static/media/dojoo.png": "/wahab/static/media/dojoo.6fbe0264f8641f95b565.png",
+    "static/media/avatar.png": "/wahab/static/media/avatar.b90f010154579b2849a8.png",
+    "static/media/ordinaryGift.png": "/wahab/static/media/ordinaryGift.9aba2a665e8514f5112c.png",
+    "static/media/wahab.png": "/wahab/static/media/wahab.09ce0c246d5ad58167db.png",
+    "static/media/upwork.png": "/wahab/static/media/upwork.fc80aa33baedc1c46729.png",
+    "static/media/mentor.png": "/wahab/static/media/mentor.a26f773e3dc0f790b2a5.png",
+    "static/media/WahabProfessionalResume.pdf": "/wahab/static/media/WahabProfessionalResume.633e1dea1de1ccf01bad.pdf",
+    "static/media/bgagriculture.png": "/wahab/static/media/bgagriculture.00f747807a0667070623.png",
+    "static/media/maineccommerce.png": "/wahab/static/media/maineccommerce.4372d92e716a082a0a0f.png",
+    "static/media/blacksquare.png": "/wahab/static/media/blacksquare.e0009913bad9348deefd.png",
+    "static/media/bgeccommerce.jpg": "/wahab/static/media/bgeccommerce.43546b4b1b8a59834700.jpg",
+    "static/media/logo.png": "/wahab/static/media/logo.747b7b16f4719f03a985.png",
+    "index.html": "/wahab/index.html",
+    "main.0afe40cf.css.map": "/wahab/static/css/main.0afe40cf.css.map",
+    "main.0c275596.js.map": "/wahab/static/js/main.0c275596.js.map",
+    "787.509827db.chunk.js.map": "/wahab/static/js/787.509827db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0afe40cf.css",
+    "static/js/main.0c275596.js"
+  ]
+}
