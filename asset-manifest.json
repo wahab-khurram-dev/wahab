@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wahab/static/css/main.0afe40cf.css",
-    "main.js": "/wahab/static/js/main.a3f6fa17.js",
+    "main.js": "/wahab/static/js/main.eae7c260.js",
     "static/js/787.509827db.chunk.js": "/wahab/static/js/787.509827db.chunk.js",
     "static/media/angilya.png": "/wahab/static/media/angilya.d498d0ee82fde4da7aec.png",
     "static/media/agriculture.png": "/wahab/static/media/agriculture.35159bc8917758c54970.png",
@@ -19,11 +19,11 @@
     "static/media/logo.png": "/wahab/static/media/logo.747b7b16f4719f03a985.png",
     "index.html": "/wahab/index.html",
     "main.0afe40cf.css.map": "/wahab/static/css/main.0afe40cf.css.map",
-    "main.a3f6fa17.js.map": "/wahab/static/js/main.a3f6fa17.js.map",
+    "main.eae7c260.js.map": "/wahab/static/js/main.eae7c260.js.map",
     "787.509827db.chunk.js.map": "/wahab/static/js/787.509827db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0afe40cf.css",
-    "static/js/main.a3f6fa17.js"
+    "static/js/main.eae7c260.js"
   ]
 }
